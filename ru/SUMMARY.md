@@ -20,7 +20,7 @@
   - [Анимация переходов](advanced/transitions.md)
   - [Запросы данных](advanced/data-fetching.md)
   - [Скроллинг](advanced/scroll-behavior.md)
-  - [Ленивая загрузка](advanced/lazy-loading.md)
+  - [Ленивая загрузка путей](advanced/lazy-loading.md)
 - Справочник API
   - [router-link](api/router-link.md)
   - [router-view](api/router-view.md)
